@@ -1,0 +1,4 @@
+﻿  Program_14.cpp
+C:\Files C++\SAOD\Program_14\Program_14\Program_14.cpp(158,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Files C++\SAOD\Program_14\Program_14\Program_14.cpp(284,8): warning C4101: 'val': unreferenced local variable
+  Program_14.vcxproj -> C:\Files C++\SAOD\Program_14\Debug\Program_14.exe

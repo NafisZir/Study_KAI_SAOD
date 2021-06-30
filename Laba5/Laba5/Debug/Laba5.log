@@ -1,0 +1,4 @@
+﻿  Laba5.cpp
+C:\Files C++\SAOD\Laba5\Laba5\Laba5.cpp(157,6): warning C4101: 'index': unreferenced local variable
+C:\Files C++\SAOD\Laba5\Laba5\Laba5.cpp(157,13): warning C4101: 'needItem': unreferenced local variable
+  Laba5.vcxproj -> C:\Files C++\SAOD\Laba5\Debug\Laba5.exe
